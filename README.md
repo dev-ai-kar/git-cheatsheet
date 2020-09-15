@@ -71,5 +71,7 @@ Git Commands
 
 
 ### Revert & Roolbacks
+
+| Command | Description |
 | ------- | ----------- |
 | `git revert HEAD` | revert to previous commit as a new commit |
